@@ -1,0 +1,5 @@
+<Jenkins 참고 사이트>
+
+http://www.slideshare.net/sunnykwak90/ss-59330863
+
+http://yookeun.github.io/tools/2014/09/18/jenkins-github/
